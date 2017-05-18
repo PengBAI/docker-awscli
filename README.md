@@ -7,5 +7,5 @@ Amazon webservice CLI tool
 ## Run
 
 ```
-docker run pengbai/docker-wascli aws --version
+docker run pengbai/docker-awscli aws --version
 ```
